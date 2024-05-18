@@ -297,7 +297,7 @@ def search(event, combo_box):
 
 
 root = tk.Tk()
-root.title("Relevant Listings")
+root.title("ROTMG Trader Scraper")
 
 # Text widget to display results
 results_text = tk.Text(root, height=15, width=60, wrap=tk.WORD)  # Larger height and width, wrap by word
